@@ -21,11 +21,7 @@
   </a>
 </p>
 
-<br/>
 
-<img src="public/assets/images/intro1.gif" alt="Portfolio Preview" width="700" style="border-radius: 12px; box-shadow: 0 20px 60px rgba(204, 26, 62, 0.3);" />
-
-<br/>
 <br/>
 
 <p align="center">
